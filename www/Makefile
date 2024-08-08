@@ -2561,6 +2561,7 @@
     SUBDIR += you-get
     SUBDIR += yourls
     SUBDIR += yt-dlp
+    SUBDIR += ytdownloader
     SUBDIR += ytdl
     SUBDIR += yuicompressor
     SUBDIR += zenphoto
