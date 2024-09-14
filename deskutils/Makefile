@@ -45,6 +45,7 @@
     SUBDIR += dailystrips
     SUBDIR += deforaos-notes
     SUBDIR += deforaos-todo
+    SUBDIR += desktopfilescreator
     SUBDIR += dfshow
     SUBDIR += dmenu-wayland
     SUBDIR += docear
