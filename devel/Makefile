@@ -8244,6 +8244,7 @@
     SUBDIR += uthash
     SUBDIR += util-linux
     SUBDIR += uv
+    SUBDIR += valdo
     SUBDIR += valgrind
     SUBDIR += valgrind-devel
     SUBDIR += vasm
