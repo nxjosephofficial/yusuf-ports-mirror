@@ -319,6 +319,7 @@
     SUBDIR += py-pysubs2
     SUBDIR += py-python-mpv
     SUBDIR += py-pytube
+    SUBDIR += py-pytubefix
     SUBDIR += py-soco
     SUBDIR += py-srt
     SUBDIR += py-subliminal
