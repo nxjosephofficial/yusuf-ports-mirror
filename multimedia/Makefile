@@ -300,6 +300,7 @@
     SUBDIR += ptx-kmod
     SUBDIR += pwcbsd
     SUBDIR += pwcview
+    SUBDIR += py-plexapi
     SUBDIR += py-PySceneDetect
     SUBDIR += py-av
     SUBDIR += py-cec
