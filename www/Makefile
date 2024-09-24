@@ -1762,6 +1762,7 @@
     SUBDIR += py-livereload
     SUBDIR += py-mechanicalsoup
     SUBDIR += py-mechanize
+    SUBDIR += py-mov-cli
     SUBDIR += py-multidict
     SUBDIR += py-mwoauth
     SUBDIR += py-nevow
