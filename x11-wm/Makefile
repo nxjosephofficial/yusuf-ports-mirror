@@ -29,6 +29,7 @@
     SUBDIR += durden
     SUBDIR += dwl
     SUBDIR += dwm
+    SUBDIR += dwm-flexipatch
     SUBDIR += e16
     SUBDIR += e16-docs
     SUBDIR += echinus
