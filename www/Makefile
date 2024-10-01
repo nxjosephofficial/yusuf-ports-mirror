@@ -1869,6 +1869,7 @@
     SUBDIR += py-user_agent
     SUBDIR += py-utidylib
     SUBDIR += py-uvicorn
+    SUBDIR += py-video-downloader
     SUBDIR += py-w3lib
     SUBDIR += py-wagtail
     SUBDIR += py-wagtail-2fa
