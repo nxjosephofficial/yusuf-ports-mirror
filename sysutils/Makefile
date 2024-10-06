@@ -736,6 +736,7 @@
     SUBDIR += lxterminal
     SUBDIR += mac_nonet
     SUBDIR += mac_rtprio
+    SUBDIR += macchina
     SUBDIR += mackerel-agent
     SUBDIR += magicrescue
     SUBDIR += manck
