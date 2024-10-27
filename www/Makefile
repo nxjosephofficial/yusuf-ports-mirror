@@ -1907,6 +1907,7 @@
     SUBDIR += py-xyzservices
     SUBDIR += py-yarl
     SUBDIR += py-yt-dlp
+    SUBDIR += py-ytmusicapi
     SUBDIR += pydio-cells
     SUBDIR += qdecoder
     SUBDIR += qhttpengine
