@@ -1763,6 +1763,7 @@
     SUBDIR += py-mechanicalsoup
     SUBDIR += py-mechanize
     SUBDIR += py-mov-cli
+    SUBDIR += py-mov-cli-files
     SUBDIR += py-multidict
     SUBDIR += py-mwoauth
     SUBDIR += py-nevow
