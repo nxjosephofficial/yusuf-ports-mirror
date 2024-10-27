@@ -668,6 +668,7 @@
     SUBDIR += py-samplerate
     SUBDIR += py-simpleaudio
     SUBDIR += py-soundcloud
+    SUBDIR += py-soundcloud-v2
     SUBDIR += py-sounddevice
     SUBDIR += py-soundscrape
     SUBDIR += py-soxr
