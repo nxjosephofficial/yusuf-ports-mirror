@@ -1764,6 +1764,7 @@
     SUBDIR += py-mechanize
     SUBDIR += py-mov-cli
     SUBDIR += py-mov-cli-files
+    SUBDIR += py-mov-cli-jellyplex
     SUBDIR += py-multidict
     SUBDIR += py-mwoauth
     SUBDIR += py-nevow
