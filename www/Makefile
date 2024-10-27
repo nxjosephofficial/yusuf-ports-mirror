@@ -1766,6 +1766,7 @@
     SUBDIR += py-mov-cli-files
     SUBDIR += py-mov-cli-jellyplex
     SUBDIR += py-mov-cli-soundcloud
+    SUBDIR += py-mov-cli-test
     SUBDIR += py-multidict
     SUBDIR += py-mwoauth
     SUBDIR += py-nevow
