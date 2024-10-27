@@ -324,6 +324,7 @@
     SUBDIR += py-soco
     SUBDIR += py-srt
     SUBDIR += py-subliminal
+    SUBDIR += py-syncedlyrics
     SUBDIR += py-tartube
     SUBDIR += py-tvnamer
     SUBDIR += py-ustreamer
