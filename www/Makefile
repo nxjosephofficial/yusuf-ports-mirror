@@ -1850,6 +1850,7 @@
     SUBDIR += py-sockjs-tornado
     SUBDIR += py-soupsieve
     SUBDIR += py-splinter
+    SUBDIR += py-spotdl
     SUBDIR += py-spyne
     SUBDIR += py-sse-starlette
     SUBDIR += py-sseclient
