@@ -1,10 +1,9 @@
-PORTNAME=	soundcloud
+PORTNAME=	soundcloud-v2
 DISTVERSIONPREFIX=	v
 DISTVERSION=	1.6.0
 CATEGORIES=	audio python
 #MASTER_SITES=	https://codeberg.org/miurahr/pykakasi/archive/${DISTVERSIONFULL}${EXTRACT_SUFX}?dummy=/
 PKGNAMEPREFIX=	${PYTHON_PKGNAMEPREFIX}
-PKGNAMESUFFIX=	-v2
 
 MAINTAINER=	nxjoseph@protonmail.com
 COMMENT=	Python wrapper for v2 SoundCloud API
