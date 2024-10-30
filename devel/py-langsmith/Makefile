@@ -17,6 +17,7 @@ RUN_DEPENDS=	${PYTHON_PKGNAMEPREFIX}httpx>=0.23.0<1:www/py-httpx@${PY_FLAVOR} \
 		${PYTHON_PKGNAMEPREFIX}requests>=^2:www/py-requests@${PY_FLAVOR}
 
 USES=		python:3.8+
+USE_PYTHON=	flavors
 
 NO_ARCH=	yes
 NO_BUILD=	yes
