@@ -23,7 +23,7 @@ RUN_DEPENDS=	${PYTHON_PKGNAMEPREFIX}black>=23.12.0:devel/py-black@${PY_FLAVOR} \
 		${PYTHON_PKGNAMEPREFIX}twine>=0:devel/py-twine@${PY_FLAVOR}
 
 USES=		python:3.8+
-USE_PYTHON=	autoplist distutils
+USE_PYTHON=	autoplist distutils flavors
 
 NO_ARCH=	yes
 
