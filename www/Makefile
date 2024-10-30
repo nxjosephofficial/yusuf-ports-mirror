@@ -1745,6 +1745,7 @@
     SUBDIR += py-httpx-gssapi
     SUBDIR += py-httpx-oauth
     SUBDIR += py-httpx-socks
+    SUBDIR += py-httpx-sse
     SUBDIR += py-hypercorn
     SUBDIR += py-hyperframe
     SUBDIR += py-hyperlink
