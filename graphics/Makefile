@@ -942,6 +942,7 @@
     SUBDIR += py-pillow
     SUBDIR += py-pillow-heif
     SUBDIR += py-pivy
+    SUBDIR += py-pixelmatch
     SUBDIR += py-plotly
     SUBDIR += py-png
     SUBDIR += py-pointpats
