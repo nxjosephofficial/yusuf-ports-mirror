@@ -1344,8 +1344,8 @@
     SUBDIR += py-csvkit
     SUBDIR += py-custom_inherit
     SUBDIR += py-cyclonedx-python-lib
+    SUBDIR += py-dacite
     SUBDIR += py-dbfread
-    SUBDIR += py-decite
     SUBDIR += py-dialect
     SUBDIR += py-dict2xml
     SUBDIR += py-diff-match-patch
