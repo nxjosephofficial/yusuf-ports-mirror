@@ -18,6 +18,7 @@ RUN_DEPENDS=	${PYTHON_PKGNAMEPREFIX}beautifulsoup>=0:www/py-beautifulsoup@${PY_F
 USES=		python:3.8+
 USE_GITHUB=	yes
 GH_ACCOUNT=	moehmeni
+USE_PYTHON=	flavors
 
 NO_ARCH=	yes
 NO_BUILD=	yes
@@ -29,7 +30,8 @@ post-patch:
 	${RM} ${WRKSRC}/${PORTNAME}/__main__.py.bak
 
 do-install:
-	${INSTALL_SCRIPT} ${WRKSRC}/${PORTNAME}/__main__.py ${STAGEDIR}${PREFIX}/bin/${PORTNAME}
+	${INSTALL_SCRIPT} ${WRKSRC}/${PORTNAME}/__main__.py \
+		${STAGEDIR}${PREFIX}/bin/${PORTNAME}
 	(cd ${WRKSRC}/${PORTNAME} && \
 		${FIND} . -type d -exec ${MKDIR} ${STAGEDIR}${PYTHON_SITELIBDIR}/${PORTNAME}/{} \
 		\; && \
