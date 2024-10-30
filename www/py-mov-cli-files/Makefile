@@ -16,6 +16,7 @@ RUN_DEPENDS=	${PYTHON_PKGNAMEPREFIX}thefuzz>=0:devel/py-thefuzz@${PY_FLAVOR} \
 USES=		python:3.8+
 USE_GITHUB=	yes
 GH_ACCOUNT=	mov-cli
+USE_PYTHON=	flavors
 
 NO_ARCH=	yes
 NO_BUILD=	yes
