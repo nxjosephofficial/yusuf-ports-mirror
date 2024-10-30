@@ -15,6 +15,7 @@ RUN_DEPENDS=	${PYTHON_PKGNAMEPREFIX}pytubefix>=0:multimedia/py-pytubefix@${PY_FL
 USES=		python:3.8+
 USE_GITHUB=	yes
 GH_ACCOUNT=	mov-cli
+USE_PYTHON=	flavors
 
 NO_ARCH=	yes
 NO_BUILD=	yes
