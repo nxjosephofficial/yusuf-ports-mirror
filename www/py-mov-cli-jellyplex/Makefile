@@ -17,6 +17,7 @@ RUN_DEPENDS=	${PYTHON_PKGNAMEPREFIX}requests>=0:www/py-requests@${PY_FLAVOR} \
 USES=		python:3.8+
 USE_GITHUB=	yes
 GH_ACCOUNT=	mov-cli
+USE_PYTHON=	flavors
 
 NO_ARCH=	yes
 NO_BUILD=	yes
