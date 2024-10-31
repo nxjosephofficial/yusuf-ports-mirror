@@ -11,7 +11,7 @@ LICENSE_FILE=	${WRKSRC}/COPYING
 
 LIB_DEPENDS=	libjson-glib-1.0.so:devel/json-glib
 
-USES=		gnome meson python:build shebangfix vala
+USES=		gnome meson pkgconfig python:build shebangfix vala:build
 USE_GITHUB=	yes
 GH_ACCOUNT=	vala-lang
 USE_GNOME=	glib20
