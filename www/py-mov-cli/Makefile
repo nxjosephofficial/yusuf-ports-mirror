@@ -1,7 +1,9 @@
 PORTNAME=	mov-cli
-DISTVERSION=	4.4.14
+DISTVERSION=	4.4.15
 CATEGORIES=	www python
+MASTER_SITES=	PYPI
 PKGNAMEPREFIX=	${PYTHON_PKGNAMEPREFIX}
+DISTNAME=	mov_cli-${DISTVERSION}
 
 MAINTAINER=	nxjoseph@protonmail.com
 COMMENT=	Watch everything from your terminal
@@ -28,8 +30,6 @@ RUN_DEPENDS=	${PYTHON_PKGNAMEPREFIX}beautifulsoup>=0:www/py-beautifulsoup@${PY_F
 		mpv:multimedia/mpv
 
 USES=		python:3.8+
-USE_GITHUB=	yes
-GH_ACCOUNT=	mov-cli
 USE_PYTHON=	flavors
 
 NO_ARCH=	yes
